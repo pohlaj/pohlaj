@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pohlaj
-- 👀 I’m interested in Aerodynamic Control Systems  
+- 👀 I’m interested in Microelectronic Control Systems  
 - 🌱 I’m currently learning Mechanical Engineering
 - 💞️ I’m looking to collaborate on Arduino projects
 - 📫 How to reach me pohlaj@clarkson.edu
